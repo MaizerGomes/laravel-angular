@@ -1,5 +1,5 @@
 {
-    "name": "Maizer/laravel5-angular-material-starter",
+    "name": "maizer/laravel5-angular-material-starter",
     "description": "Laravel 5 angular material starter",
     "keywords": ["laravel", "angular", "material", "starter", "ui-router", "api", "angular-material"],
     "license": "MIT",
